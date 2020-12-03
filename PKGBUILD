@@ -1,4 +1,4 @@
-# Maintainer: Michael Stegeman <mstegeman@mozilla.com>
+# Maintainer: Michael Stegeman <team@webthings.io>
 pkgname='python-gateway-addon'
 pkgver=1.0.0
 pkgrel=1
