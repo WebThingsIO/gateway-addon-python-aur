@@ -1,9 +1,9 @@
 # gateway_addon
 
 ![AUR version](https://img.shields.io/aur/version/python-gateway-addon)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mozilla-iot/gateway-addon-python-aur/Build)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/WebThingsIO/gateway-addon-python-aur/Build)
 
-AUR package for Python add-on bindings for Mozilla's WebThings Gateway.
+AUR package for Python add-on bindings for WebThings Gateway.
 
 ## Installation
 
